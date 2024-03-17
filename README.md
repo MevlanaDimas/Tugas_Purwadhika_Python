@@ -1,12 +1,13 @@
 ![header](github-header-image.png)
 
 ## About
-Assignment for Module 1 using SQL.
+Assignment for Module 1 using Python.
 
 ## Project Organization
 
 ├── ReadMe.md               <- Top-level Readme for users accessing this project.
 ├── requirements.txt        <- Requirements for run the program.
+└── Tugas                   <- File of the assignments.
   └── Day_2.ipynb           <- The answer for questions for day 2.
   └── Day_3.ipynb           <- The answer for questions for day 3.
   └── Day_4.ipynb           <- The answer for questions for day 4.
